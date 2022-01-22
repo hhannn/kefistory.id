@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: #FCFCFC;
+}
+
+h1 {
+    font-size: 42px;
+    line-height: 140%;
+    color: #635D57;
+    font-weight: 700;
+}
+
+p {
+    font-size: 16px;
+    line-height: 140%;
+    color: #635D57;
+    font-weight: 400;
+    margin: 0;
+}
+
+.navbar {
+    padding-left: 10vw;
+    padding-right: 10vw;
+    padding-top: 4px;
+    padding-bottom: 4px;
+
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+
+    background-color: #FCFCFC;
+}
+
+.nav-item {
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-top: 14px;
+}
+
+.nav .navbar-nav li a {
+    color: #968C83 !important;
+}
+
+.nav .navbar-nav a:hover {
+    color: #635D57 !important;
+}
+
+.container {
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+.landing-title {
+    margin-bottom: 16px;
+}
+
+.landing-button {
+    margin-top: 32px;
+}
+
+.couple-landing {
+    max-width: 80%;
+    height: auto;
+}
+
+.pesan-sekarang {
+    font-size: 16px;
+    font-weight: 700;
+
+    margin-right: 8px;
+    border-radius: 26px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+
+    background-color: #635D57;
+    border: none;
+}
+
+.pesan-sekarang:hover {
+    font-size: 16px;
+    font-weight: 700;
+
+    margin-right: 8px;
+    border-radius: 26px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+
+    background-color: #3F3D3B;
+    border: none;
+}
+
+.lihat-desain {
+    font-size: 16px;
+    font-weight: 700;
+
+    border-radius: 26px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+
+    color: #635D57;
+    background-color: #fcfcfc;
+    border: 2px solid #635D57;
+    box-sizing: border-box;
+    border-radius: 26px;
+
+    -webkit-transition: all 100ms ease-in-out;
+    -moz-transition: all 100ms ease-in-out;
+    -ms-transition: all 100ms ease-in-out;
+    -o-transition: all 100ms ease-in-out;
+    transition: all 100ms ease-in-out;
+}
+
+.lihat-desain:hover {
+    font-size: 16px;
+    font-weight: 700;
+
+    border-radius: 26px;
+    padding-left: 28px;
+    padding-right: 28px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    color: #635D57;
+    background-color: #fcfcfc;
+    border: 4px solid #635D57;
+    box-sizing: border-box;
+    border-radius: 26px;
+}
+
+.couple-container {
+    position: relative;
+}
+
+#blossom_container {
+    position: absolute;
+    width: calc(100% - 40px);
+    height: calc(100% - 40px);
+    top: 40%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+}
+
+.petal {
+    background: url("assets/sakura.png") no-repeat;
+    z-index: 1;
+}
+
+.petal.petal-style1 {
+    height: 20.22243309020996px;
+    width: 18.02627944946289px; 
+}
+
+.petal.petal-style2 {
+    height: 20.22243309020996px;
+    width: 18.02627944946289px; 
+}
+
+.petal.petal-style3 {
+    height: 20.22243309020996px;
+    width: 18.02627944946289px; 
+}
+
+.petal.petal-style4 {
+    height: 20.22243309020996px;
+    width: 18.02627944946289px; 
+}
+
+.petal.petal-style5 {
+    height: 20.22243309020996px;
+    width: 18.02627944946289px; 
+}
+
+.petal.petal-style6 {
+    height: 20.22243309020996px;
+    width: 18.02627944946289px; 
+}
+
+.petal.petal-style7 {
+    height: 20.22243309020996px;
+    width: 18.02627944946289px; 
+}
+
+.petal.petal-style8 {
+    height: 20.22243309020996px;
+    width: 18.02627944946289px; 
+}
+
+.petal.petal-style9 {
+    height: 20.22243309020996px;
+    width: 18.02627944946289px; 
+}
+
+.petal.petal-style10 {
+    height: 20.22243309020996px;
+    width: 18.02627944946289px; 
+}
